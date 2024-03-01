@@ -1,2 +1,2 @@
 # Ignite Feed
-Este é um projeto implementado na trilha "ReactJS - Ignite", da plataforma Rocketseat.
+Este é um projeto implementado na trilha "ReactJS", da plataforma Rocketseat.
